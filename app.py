@@ -51,8 +51,3 @@ if st.button("Predict"):
     else:
         st.warning("Please draw something first!")
 
-# ------------------------------
-# Optional: Image Upload
-# ------------------------------
-st.markdown("---")
-st.write("Or upload an image o
